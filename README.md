@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/22058321/README.md)
-# AutoClicker Pro 🖱️
 
-A powerful and customizable autoclicker for Windows, built with Python and PyQt6.
+# AutoClicker 🖱️
+
+A powerful and customizable autoclicker for Windows, built with Python.
 
 ![Screenshot of AutoClicker Pro](https://github.com/yankivare-cehovar/autoclicker/blob/bfaa8d6be3edb4e9bc24e3e81526adefe5bf14a8/img/autoclicker.png)
 
@@ -53,6 +53,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👨‍💻 Author
+##
 
-This project was created with ❤️ by **Bulo** ([yankivare-cehovar](https://github.com/yankivare-cehovar)).
+This project was created yankivare cehovar ([yankivare-cehovar](https://github.com/yankivare-cehovar)).
