@@ -3,7 +3,7 @@
 
 A powerful and customizable autoclicker for Windows, built with Python.
 
-![Screenshot of AutoClicker Pro](https://github.com/yankivare-cehovar/autoclicker/blob/bfaa8d6be3edb4e9bc24e3e81526adefe5bf14a8/img/autoclicker.png)
+![Screenshot of AutoClicker Pro]([https://github.com/yankivare-cehovar/autoclicker/blob/bfaa8d6be3edb4e9bc24e3e81526adefe5bf14a8/img/autoclicker.png](https://github.com/yankivare-cehovar/autoclicker/blob/main/img/autoclicker.png?raw=true))
 
 ---
 
